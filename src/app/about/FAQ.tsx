@@ -13,7 +13,7 @@ const questions = [
     },
     {
         question: "Should I join if I don't want to volunteer?",
-        answer: "Of course! Progressive Victory is more than just a political org, it's a community. We have worked hard to create a healthy and thriving social space. Turns out, invigorated and hopeful people can also swing elections!",
+        answer: "Of course! Progressive Victory is more than just a political org, it's a community. We have worked hard to create a healthy and thriving social space. With invigorated and hopeful spirits, people can swing elections!",
     },
     {
         question: 'Do I need previous organizing experience?',
